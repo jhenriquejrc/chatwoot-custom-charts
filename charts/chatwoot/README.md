@@ -5,8 +5,8 @@
 ## TL;DR
 
 ```
-helm repo add chatwoot https://chatwoot.github.io/charts
-helm install chatwoot chatwoot/chatwoot
+helm repo add chatwoot https://jhenriquejrc.github.io/chatwoot-custom-charts/
+helm install chatwoot-custom chatwoot/chatwoot
 ```
 
 ## Prerequisites
