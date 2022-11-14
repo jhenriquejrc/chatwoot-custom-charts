@@ -5,7 +5,7 @@
 ## TL;DR
 
 ```
-helm repo add chatwoot https://jhenriquejrc.github.io/chatwoot-custom-charts/
+helm repo add chatwoot-custom https://jhenriquejrc.github.io/chatwoot-custom-charts/
 helm install chatwoot-custom chatwoot/chatwoot
 ```
 
